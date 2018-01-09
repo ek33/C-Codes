@@ -1,5 +1,5 @@
 # C Codes
-This repository includes the codes which written in C. Some of them are my previous assignments, some of them are the ones that I wrote for fun.
+This repository includes the codes which are written in C. Some of them are my previous assignments, some of them are the ones that I wrote for fun.
 ### Data Structures
 Several data structure implementations and a project named "WordCount" which is based on "Binary Search Tree".
 ### fun
