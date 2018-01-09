@@ -153,12 +153,11 @@ int checkCandies(int r1,int c1,int r2,int c2,int **table,int *total_points){
 						}
 					}
 				}else{
-					for(i=r1,j=c1;i<r2;i++,j++){
+					for(i=r1,j=c1;i<r2;i++,j++)
 						if(table[r2][c2]!=table[i][j]){
 							printf("Sorry cannot crush these candies!\n");
 							return 1;	
 						}
-					}
 				}
 			}
 		}
