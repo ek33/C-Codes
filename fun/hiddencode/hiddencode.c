@@ -7,7 +7,8 @@ main() {
 	FILE *dosya;
 	char icerik[10000];
 	char gizli[100];
-	int i=0,i2,uzunluk,tekUzunluk,gizliUzunluk;
+	int i=0,i2,uzunluk;
+	int tekUzunluk,gizliUzunluk;
 	dosya=fopen("text.txt","r");
 	char test[6];
 	
